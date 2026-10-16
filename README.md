@@ -187,8 +187,6 @@ The application also displays the top predicted categories and their estimated p
 
 ### Screenshots
 
-Add screenshots of your application to a `screenshots` folder.
-
 ```markdown
 ![Text Classification App](screenshots/app.png)
 
