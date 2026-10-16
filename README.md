@@ -219,7 +219,6 @@ Text_Classification/
     └── comparison.png
 ```
 
-The `screenshots` directory is optional.
 
 ---
 
