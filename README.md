@@ -331,7 +331,6 @@ These are examples tested using the application.
 MCA Student | Python | Machine Learning | Deep Learning | Generative AI
 
 - GitHub: [Siddharth Tiwari](https://github.com/Siddharttiwari)
-- LinkedIn: Add your LinkedIn profile URL
 
 ---
 
